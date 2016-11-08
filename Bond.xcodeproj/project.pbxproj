@@ -826,6 +826,7 @@
 					};
 					69491BAD1A7C217100A13B6B = {
 						CreatedOnToolsVersion = 6.1.1;
+						LastSwiftMigration = 0810;
 					};
 					69491BB81A7C217100A13B6B = {
 						CreatedOnToolsVersion = 6.1.1;
